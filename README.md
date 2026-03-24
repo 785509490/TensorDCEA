@@ -14,17 +14,18 @@ This paper introduces a novel evolutionary algorithm framework designed to lever
 
 ## 2. Supported Algorithms and Test Problems
 
-This implementation includes the proposed algorithm and a set of established benchmark problems tailored for GPU environments:
+This implementation includes the proposed algorithm and a set of established benchmark problems:
 
 ### Supported Algorithms
 
-| Algorithm | Description |
-|-----------|-------------|
-| **DC-NSGA2-A** | Dynamic Constrained NSGA-II Variant A |
-| **DC-NSGA2-B** | Dynamic Constrained NSGA-II Variant B |
+| Algorithm      | Description                                                         |
+|----------------|---------------------------------------------------------------------|
+| **DC-NSGA2-A** | Dynamic Constrained NSGA-II Variant A                               |
+| **DC-NSGA2-B** | Dynamic Constrained NSGA-II Variant B                               |
 | **DC-MOEA**    | https://www.sciencedirect.com/science/article/pii/S2210650217302717 |
-| **dCMOEA**     | https://ieeexplore.ieee.org/abstract/document/8926382/ |
-| **TDCEA**      | https://ieeexplore.ieee.org/abstract/document/10246310 |
+| **dCMOEA**     | https://ieeexplore.ieee.org/abstract/document/8926382/              |
+| **TDCEA**      | https://ieeexplore.ieee.org/abstract/document/10246310              |
+| **TensorDCEA** | Proposed    Algorithm                                               |
 
 ### Test Problems
 
